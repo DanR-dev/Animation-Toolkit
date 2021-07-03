@@ -11,5 +11,5 @@ This script is a universal tool for animating robots in the game Space Engineers
 - When applied to a robot like the Sentinel walker, it can produce a very complex walking animation very precisely and at any speed.
 
 ### Links
-Sentinel walker: https://steamcommunity.com/sharedfiles/filedetails/?id=2254052110
+Sentinel walker: https://steamcommunity.com/sharedfiles/filedetails/?id=2254052110  
 API Index (fan-made): https://github.com/malware-dev/MDK-SE/wiki/Api-Index
